@@ -22,7 +22,7 @@ In the internet layer of the TCP/IP model (Network Layer 2), the IP formats data
 <br>
 
 ## Steps
-**NOTE** This project will demonstrate my proficiency in log analysis, and is structured for SOC Level 1 roles. Hands on steps to acquiring TCPDump packet captures will be showcased in my Kali Linux Lab Series. 
+<ins> <u> **NOTE** </u> </ins>: This project will demonstrate my proficiency in log analysis, and is structured for SOC Level 1 roles. Hands on steps to acquiring TCPDump packet captures will be showcased in my Kali Linux Lab Series. 
 <br>
 <br>
 
