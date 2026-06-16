@@ -1,7 +1,11 @@
-# TCPDump-Network-Log-Analysis
+# TCPDump Network Log Analysis
 
 ## Objective
-The detection lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. the primary focus was to ingest and analyze logs within a security information and even management system, generating test telemetry to mimic real world attack scenarios. this hands on experience was designed to deepen my understanding of network security, attack paterns, and defensive strategies.
+In this lab, i will **analyze traffic in transit** using data from a network protocol analyzer tool (TCPDump) and **identify** which network protocol and service were impacted by this incident.
+<br>
+
+In the internet layer of the TCP/IP model (Network Layer 2), the IP formats data packets into IP datagrams. The information provided in the datagram of an IP packet can provide security analysts with insight into suspicious data packets in transit. Knowing how to identify potentially malicious traffic on a network can help cybersecurity analysts assess security risks on a network and reinforce network security.
+<br>
 <br>
 
 ## Skills Learned
@@ -13,11 +17,15 @@ The detection lab project aimed to establish a controlled environment for simula
 <br>
 
 ## Tools Used
-Name tool along with its purpose
+- Kali Linux
+- TCPDump
 <br>
 
 ## Steps
-Screenshots, Steps, etc
-
-Ref 1: TCP LOG
+**NOTE** This project will demonstrate my proficiency in log analysis, and is structured for SOC Level 1 roles. Hands on steps to acquiring TCPDump packet captures will be showcased in my Kali Linux Lab Series. 
 <br>
+<br>
+
+## Analysis
+<img width="720" height="920" alt="TCPDump Traffic Analysis" src="https://github.com/user-attachments/assets/3e86a4b4-692d-4d73-9f4e-4f91cf22ac8d" />
+
