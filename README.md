@@ -27,5 +27,5 @@ In the internet layer of the TCP/IP model (Network Layer 2), the IP formats data
 <br>
 
 ## Analysis
-<img width="720" height="920" alt="TCPDump Traffic Analysis" src="https://github.com/user-attachments/assets/3e86a4b4-692d-4d73-9f4e-4f91cf22ac8d" />
+<img width="720" height="990" alt="TCPDump Traffic Analysis" src="https://github.com/user-attachments/assets/3e86a4b4-692d-4d73-9f4e-4f91cf22ac8d" />
 
