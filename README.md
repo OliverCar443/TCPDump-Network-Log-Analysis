@@ -24,5 +24,5 @@ The goal is to **analyze traffic in transit** using data from a network protocol
 <br>
 
 ## Analysis
-<img width="720" height="990" alt="TCPDump Traffic Analysis" src="https://github.com/user-attachments/assets/3e86a4b4-692d-4d73-9f4e-4f91cf22ac8d" />
+<img width="720" height="990" alt="TCPDump Traffic Analysis" src="https://github.com/user-attachments/assets/0fefe170-13de-4e13-9b99-a8005150f5c5" />
 
