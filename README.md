@@ -18,7 +18,7 @@ The goal is to **analyze traffic in transit** using data from a network protocol
 - TCPDump
 <br>
 
-## Steps
+## Index
 <ins> <u> **NOTE** </u> </ins>: This project will demonstrate my proficiency in log analysis, and is structured for SOC Level 1 roles. Hands on steps to acquiring TCPDump packet captures will be showcased in my Kali Linux Lab Series. 
 <br>
 <br>
